@@ -6,13 +6,13 @@
 ---
 Challenge completed
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![1%](https://progress-bar.dev/1/?title=Done)
 
 
 ### `Challenge days`
 
 
-- [ ] `In progress` - 01th of Coding and Reading 
+- [x] `Done` - 01th of Coding and Reading 
 
 - [ ] `In progress` - 02th of Coding and Reading
 
