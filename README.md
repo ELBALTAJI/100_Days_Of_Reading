@@ -6,7 +6,7 @@
 ---
 Challenge completed
 
-![1%](https://progress-bar.dev/1/?title=Done)
+![2%](https://progress-bar.dev/2/?title=Done)
 
 
 ### `Challenge days`
@@ -14,7 +14,7 @@ Challenge completed
 
 - [x] `Done` - 01th of Coding and Reading 
 
-- [ ] `In progress` - 02th of Coding and Reading
+- [x] `Done` - 02th of Coding and Reading
 
 - [ ] `In progress` - 03th of Coding and Reading
 
